@@ -1,0 +1,11 @@
+{
+	"id": "dashboard-explorer",
+	"name": "Dashboard Explorer",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "A file explorer that lets you explore your vault in a more friendly manner.",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/HaloGamer33",
+	"fundingUrl": "https://ko-fi.com/halogamer33",
+	"isDesktopOnly": true
+}
